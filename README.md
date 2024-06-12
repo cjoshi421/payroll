@@ -1,4 +1,5 @@
 Spring boot application with MySQL and spring data jpa
+Need to setup Lombok on IDE.
 
 * Need MySQL database 
 * Run ddl script on MySQL database 
